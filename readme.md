@@ -3,10 +3,11 @@ After learning new concepts and topics, everyday modifications will be made. The
 
 
 HTML:
+
 Class
 Id
 Iframes
 Basic of Javascript
-responsive page
+Responsive page
 Media
-geolocation (Latitute Longitude)
+Geolocation (Latitute Longitude)
