@@ -1,0 +1,141 @@
+<html>
+<title>CSS</title>
+
+<!--Today we shall learn about CSS. It is writen under style tag  -->
+<style>
+  h1{
+    font-family:Lucida Bright;
+    color:black;
+    text-align:center;
+  }
+  </style>
+<!-- Adding background image -->
+<style>
+body{
+  background-image:url("bg.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+
+
+}
+</style>
+
+  <h1> Welcome to CSS </h1>
+
+  <!-- Selectors in CSS -->
+  <!-- Styling using ID selectors -->
+  <style>
+  #p1
+  {
+    font-family:Lucida Bright;
+    color:Chocolate;
+    text-align:center;
+  }
+  </style>
+  <p id="p1">Id selectors is used to style an attribute having that particular ID</p>
+  <p>The one not having the id wont be affected</p>
+
+  <!-- Styling using Class Selectors -->
+  <style>
+  h4.c1
+  {
+    font-family:Lucida Bright;
+    color:coral;
+    text-align:center;
+  }
+
+  h4.c2
+  {
+    font-size:150%;
+  }
+  </style>
+  <h4 class="c1">Having multiple texts using h4, if we want to style a particular section, we can use class selectors.</h4>
+  <h4 class="c1 c2">Class selectors is a good tool that you can use!</h4>
+
+  <!-- For styling the complete page with the same design, we can use universal selectors
+  <style>
+* {
+  text-align: center;
+  color: blue;
+}
+</style>-->
+
+<!-- If we want to style more than one attribute with the same style, you can use grouping selectors.
+<style>
+h1, h2, p {
+  text-align: center;
+  color: red;
+}
+</style>-->
+
+<!-- Giving color to particular elements of the webpage -->
+<style>
+div{
+  text-align:center;
+  background-color:DimGrey;
+}
+#p2
+{
+  text-align:center;
+  background-color:AntiqueWhite;
+  opacity: 0.6;
+}
+</style>
+<div>
+  All the text inside div element will have a particular color.<p id='p2'>There is a lot in CSS</p>
+  Learning all of it is actually fun!!
+</div>
+
+<!-- Adding border to the text -->
+<style>
+p.c3
+{
+  border-style: double;
+  border-width:thick thin;
+  border-radius:10px;
+  font-family:Lucida Bright;
+  color:DarkRed;
+  text-align:center;
+}
+</style>
+<p class='c3'>It is a good option to add border over a text that you want to highlight</p>
+<!-- Creating a box model -->
+<style>
+.c4 {
+  background-color: DarkGoldenRod;
+  width: 150px;
+  border: 5px solid green;
+  padding: 10px;
+  margin:auto;
+  font-family:Lucida Console;
+}
+</style>
+<div class="c4"><h6>Using Box Model</h6><br>There are multiple features in CSS that can be used according to the need. A good front-end developer knows when to use what.
+</div>
+
+<style>
+.c5
+{
+  font-family:serif;
+  color:MidnightBlue;
+  text-align:center;
+  text-decoration:line-through;
+}
+</style>
+<h1 class="c5">You can't do it. Give up!!</h1>
+
+<style>
+.c6
+{
+  font-family:serif;
+  color:Indigo;
+  text-align:center;
+  text-shadow: 2px 2px 5px red;
+}
+</style>
+<h1 class="c6">Keep on hustling!!!</h1>
+
+
+
+  </html>
