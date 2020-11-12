@@ -26,3 +26,10 @@ background,
 box.
 Link: https://sh-reya.github.io/WebDev-Journey/Day2/day2 
 
+DAY3
+TOPICS:
+links
+tables
+list
+position(fixed, relative, sticky)
+
