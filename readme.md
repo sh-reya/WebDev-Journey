@@ -24,7 +24,7 @@ TOPICS:
 - [x] padding
 - [x] background
 - [x] box
-Link: https://sh-reya.github.io/WebDev-Journey/Day2/day2 
+- [x] Link: https://sh-reya.github.io/WebDev-Journey/Day2/day2 
 
 DAY3
 TOPICS:
@@ -32,4 +32,4 @@ TOPICS:
 - [x] tables
 - [x] list
 - [x] position(fixed, relative, sticky)
-
+- [x] Link: https://sh-reya.github.io/WebDev-Journey/Day3/d3
