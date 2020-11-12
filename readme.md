@@ -7,29 +7,29 @@ After learning new concepts and topics, everyday modifications will be made. The
 
 DAY1 
 TOPICS:
-Class,
-Id,
-Iframe,
-Audio,
-Video,
-bookmark,
-Basics of Javascript,
-Basics of CSS.
-Link : https://sh-reya.github.io/WebDev-Journey/Day1/basic
+- [x] Class
+- [x] Id
+- [x] Iframe
+- [x] Audio
+- [x] Video
+- [x] bookmark
+- [x] Basics of Javascript
+- [x] Basics of CSS
+- [x] Link : https://sh-reya.github.io/WebDev-Journey/Day1/basic
 
 DAY2
 TOPICS:
-Selectors,
-margins,
-padding,
-background,
-box.
+- [x] Selectors
+- [x] margins
+- [x] padding
+- [x] background
+- [x] box
 Link: https://sh-reya.github.io/WebDev-Journey/Day2/day2 
 
 DAY3
 TOPICS:
-links
-tables
-list
-position(fixed, relative, sticky)
+- [x] links
+- [x] tables
+- [x] list
+- [x] position(fixed, relative, sticky)
 
