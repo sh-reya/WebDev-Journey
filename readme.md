@@ -33,3 +33,11 @@ TOPICS:
 - [x] list
 - [x] position(fixed, relative, sticky)
 - [x] Link: https://sh-reya.github.io/WebDev-Journey/Day3/d3
+
+DAY4
+- [x] Links
+- [x] Navigation bar
+- [x] Combine sticky and navigation bar
+- [x] Text at a fixed pos
+- [x] Text overflow
+- [x] Float
