@@ -41,3 +41,4 @@ DAY4
 - [x] Text at a fixed pos
 - [x] Text overflow
 - [x] Float
+- [x] Link: https://sh-reya.github.io/WebDev-Journey/Day4/d4
