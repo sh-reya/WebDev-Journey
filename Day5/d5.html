@@ -1,0 +1,140 @@
+<html>
+<title>Day5</title>
+<style>
+h1{
+    text-shadow: 2px 2px 5px Cyan;
+    text-align:center;
+    color:Black;
+    font-family:Algerian;
+  }
+
+  body{
+    background-color:BlueViolet;
+    margin:0;
+    counter-reset: var;
+  }
+  h3.one{
+    display: none;
+    background-color:DarkCyan;
+    padding 10px;
+    text-align:center;
+  }
+  div.one{
+    background-color:Salmon;
+
+  }
+  div.one:hover{
+    background-color:MediumTurquoise;
+
+  }
+
+  div.one:hover h3.one{
+    display:block;
+    text-align:center;
+  }
+  h4.one{
+    text-align:center;
+    color:Black;
+    font-family:LucidaBright;
+    padding:8px;
+}
+p.one::first-letter{
+  color:MidnightBlue;
+  font-size:300%;
+}
+p.one::first-line{
+  color:Maroon;
+  font-variant:small-caps;
+}
+p.one::selection{
+  color:hotpink;
+  background:black;
+}
+img{
+  float:right;
+  opacity:0.5;
+}
+img:hover{
+  opacity:1.0;
+}
+ul{
+  list-style-type:none;
+  margin:0;
+  padding:0;
+  width:25%;
+  background-color:LightSalmon;
+  position:fixed;
+  height:100%;
+  overflow:auto;
+}
+
+li a{
+  display:block;
+  color:black;
+  padding:8px 16px;
+  text-decoration:none;
+}
+li a.active{
+  background-color:Salmon;
+  color:white;
+}
+li a:hover:not(.active)
+{
+  background-color:black;
+  color:hotpink;
+}
+div{
+  margin-left:25%;
+
+}
+
+
+h5::before{
+  counter-increment: var;
+  content:"Topic" counter(var)": ";
+}
+
+
+</style>
+<body>
+  <ul>
+    <li><a class="active" href="#home">Home</a></li>
+    <li><a href="https://www.linkedin.com/in/shreya-kumari-b9b5841a0/">LinkedIn</a></li>
+    <li><a href="https://github.com/sh-reya">GitHub</a></li>
+    <li><a href="https://devpost.com/sk5080">Devpost</a></li>
+  </ul>
+  <div class="one"><h4 class="one">Shreya Kumari</h4>
+    <h3 class="one">A person who you will love to team up with!!!</h3></div>
+
+
+<div><h1>Final shot at CSS basics</h1>
+
+
+
+
+  <p class="one">One of the best things about development is that you get numerous options. You can choose from all of them to get the best possible design. Try resizing the screen or minimizing the browser to see the effect. Also, select some texts from this particular paragraph.</p>
+  <h4><img src="sk.jpeg" alt="Shreya" style="width:150px; height:300px; margin-left:50px;">
+
+  Technical Experience<br>
+•	ARTH (10 month training with industry use-case projects)<br>
+1.	Deployed projects of BigData hadoop.<br>
+2.	Explored the details of master slave configuration and the concept behind its working.<br>
+3.	Configured a webserver on AWS using CLI. Delivered the same project using AWS GUI.<br>
+4.	Developed a website that predicts the sleeping schedule of the person based on their time spent on OTT using Linear Regression.<br>
+5.	Currently exploring DevOps<br><br>
+
+
+•	Python Towards Full Stack and Data Science with Flask (Project based internship) 	    <br>
+1.	Established several projects on real use-cases.<br>
+2.	Deployed WebApp using API and CGI<br>
+3.	Integrated python with docker, speech recognition.<br>
+4.	Currently developing a project to integrate docker, flask, linux, python and some more tools to create a major project<br><br>
+</h4><div>
+
+
+    <h3>Essential topics for dynamic web-developemnt:</h3>
+    <h5>HTML</h5>
+    <h5>CSS</h5>
+    <h5>JavaScript</h5>
+
+</body>
