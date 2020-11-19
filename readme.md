@@ -42,3 +42,7 @@ DAY4
 - [x] Text overflow
 - [x] Float
 - [x] Link: https://sh-reya.github.io/WebDev-Journey/Day4/d4
+
+
+DAY5
+- [x] Final shot at CSS
