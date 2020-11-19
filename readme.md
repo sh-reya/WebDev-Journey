@@ -46,3 +46,4 @@ DAY4
 
 DAY5
 - [x] Final shot at CSS
+- [x] Link: https://sh-reya.github.io/WebDev-Journey/Day5/d5
