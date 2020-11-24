@@ -1,6 +1,6 @@
 
 My journey towards developing a website from stratch to professional level.
-
+We start usinh HTML, move towards CSS and then finally use javascript before moving to the high end. 
 =======
 In this repository, I have started developing a website from scratch.
 After learning new concepts and topics, everyday modifications will be made. The complete track record will be available here.
